@@ -1,2 +1,2 @@
 # The Banana Project
-The Banana Project. Getting electricity from everyday items
+Getting electricity from everyday items.
